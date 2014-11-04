@@ -1,0 +1,6 @@
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-02-BiggestTripple\bin\Debug\Problem-02-BiggestTripple.exe.config
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-02-BiggestTripple\bin\Debug\Problem-02-BiggestTripple.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-02-BiggestTripple\bin\Debug\Problem-02-BiggestTripple.pdb
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-02-BiggestTripple\obj\Debug\Problem-02-BiggestTripple.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-02-BiggestTripple\obj\Debug\Problem-02-BiggestTripple.pdb
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-02-BiggestTripple\obj\Debug\Problem-02-BiggestTripple.csprojResolveAssemblyReference.cache

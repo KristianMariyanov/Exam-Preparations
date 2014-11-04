@@ -1,0 +1,12 @@
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\bin\Debug\Problem-04-LongestWord.exe.config
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\bin\Debug\Problem-04-LongestWord.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\bin\Debug\Problem-04-LongestWord.pdb
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\obj\Debug\Problem-04-LongestWord.csprojResolveAssemblyReference.cache
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\obj\Debug\Problem-04-LongestWord.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\obj\Debug\Problem-04-LongestWord.pdb
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\bin\Debug\Problem-04-LongestWord.exe.config
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\obj\Debug\Problem-04-LongestWord.exe
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\obj\Debug\Problem-04-LongestWord.pdb
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\bin\Debug\Problem-04-LongestWord.exe
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\bin\Debug\Problem-04-LongestWord.pdb
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-04-LongestWord\obj\Debug\Problem-04-LongestWord.csprojResolveAssemblyReference.cache

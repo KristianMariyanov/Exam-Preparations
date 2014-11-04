@@ -1,0 +1,5 @@
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-03-WineGlass\bin\Debug\Problem-03-WineGlass.exe.config
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-03-WineGlass\bin\Debug\Problem-03-WineGlass.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-03-WineGlass\bin\Debug\Problem-03-WineGlass.pdb
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-03-WineGlass\obj\Debug\Problem-03-WineGlass.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-03-WineGlass\obj\Debug\Problem-03-WineGlass.pdb

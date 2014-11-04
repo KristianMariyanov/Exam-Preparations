@@ -1,0 +1,108 @@
+﻿body, section, article, a, img, h1, h2, div, form, input, p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 9px;
+  background-color: #e9eaed; }
+
+.clearfix {
+  zoom: 1; }
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  height: 0;
+  display: block; }
+
+section {
+  width: 500px;
+  border: 1px solid #d6d7da;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 20px;
+  font-family: Arial;
+  color: #808080;
+  font-size: 1.4rem;
+  background-color: white; }
+  section a {
+    color: #3b59b1;
+    text-decoration: none; }
+  section article #articleBody {
+    padding: 0 10px 0 10px; }
+    section article #articleBody > p {
+      color: black;
+      margin: 20px 0 20px 0; }
+    section article #articleBody > div {
+      border: 1px solid #d6d7da;
+      margin-bottom: 10px;
+      box-shadow: rgba(220, 220, 220, 0.8) 1px 1px 3px; }
+      section article #articleBody > div img {
+        float: left; }
+      section article #articleBody > div div {
+        float: left;
+        margin-left: 10px;
+        margin-top: 10px; }
+        section article #articleBody > div div a {
+          float: left;
+          width: 100%;
+          font-weight: bold; }
+        section article #articleBody > div div span {
+          float: left; }
+  section article header {
+    padding: 10px 10px 0 10px; }
+    section article header div {
+      background: url('../images/nakovprofil.jpg') no-repeat;
+      background-size: 32px;
+      padding-left: 35px; }
+      section article header div p:nth-child(1) {
+        font-weight: normal; }
+        section article header div p:nth-child(1) a:first-child {
+          font-weight: bold; }
+      section article header div p:nth-child(2) {
+        font-weight: normal;
+        font-size: 1.3rem;
+        background: url('../images/icon01.png') no-repeat;
+        padding-left: 15px;
+        background-position-y: center;
+        background-position-x: 55px; }
+  section article footer form {
+    background-color: #fafbfb;
+    padding: 0 10px 10px 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #d6d7da;
+    float: left; }
+    section article footer form > div {
+      float: left;
+      width: 100%;
+      padding: 10px 0;
+      border-bottom: 1px solid #d6d7da; }
+      section article footer form > div:nth-child(1) a {
+        float: left; }
+        section article footer form > div:nth-child(1) a:last-child {
+          float: right;
+          background: url('../images/icon02.png') no-repeat;
+          padding-left: 18px;
+          background-position-y: center; }
+      section article footer form > div:nth-child(3) {
+        padding-bottom: 0;
+        border-bottom: none; }
+      section article footer form > div:nth-child(4) {
+        background: url('../images/unknown-member.gif') no-repeat;
+        background-position-y: center;
+        background-size: 32px;
+        border-bottom: none;
+        padding-bottom: 0;
+        padding-top: 0; }
+        section article footer form > div:nth-child(4) input {
+          padding: 8px;
+          width: 92%;
+          border: 1px solid #d6d7da;
+          margin-left: 8%;
+          background: url("../images/icon03.png") no-repeat;
+          background-position-y: center;
+          background-position-x: 97%; }
+
+/*# sourceMappingURL=02-styles.css.map */

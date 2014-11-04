@@ -1,0 +1,9 @@
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\bin\Debug\Problem-01-FruitMarket.exe.config
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\bin\Debug\Problem-01-FruitMarket.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\bin\Debug\Problem-01-FruitMarket.pdb
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\obj\Debug\Problem-01-FruitMarket.csprojResolveAssemblyReference.cache
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\obj\Debug\Problem-01-FruitMarket.exe
+W:\_SoftUni\Assistant-Stuff\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\obj\Debug\Problem-01-FruitMarket.pdb
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\bin\Debug\Problem-01-FruitMarket.exe.config
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\obj\Debug\Problem-01-FruitMarket.exe
+C:\Users\Kiko\Desktop\2014-07-21CSharpBasicsExamPrep\2014-07-21CSharpBasicsExamPrep\ExamPreperationVarian07\Problem-01-FruitMarket\obj\Debug\Problem-01-FruitMarket.pdb
